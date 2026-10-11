@@ -1,4 +1,4 @@
-# Nexus-IMX91-Linux
+# Nexus-IMX91-Yocto
 
 The Yocto build of the NEXUS Linux image for the FRDM-IMX91: the meta-nexus layer, the kas configuration and the image recipe.
 
